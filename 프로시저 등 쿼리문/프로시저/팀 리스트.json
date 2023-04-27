@@ -1,0 +1,80 @@
+[
+	{
+		"tm_num" : 1,
+		"tm_name" : "단또즈",
+		"tm_startday" : "2023-03-23",
+		"tm_slogan" : "단또단또",
+		"tm_re_num" : 1,
+		"tm_openformatch" : 1,
+		"tm_teamgender" : 1,
+		"tm_me_id" : "asd123",
+		"tm_teamstate" : "활동중",
+		"tm_team_img" : "/디폴트이미지/고양이로고.png",
+		"tm_team_introduce" : null
+	},
+	{
+		"tm_num" : 2,
+		"tm_name" : "차돌박이",
+		"tm_startday" : "2023-04-10",
+		"tm_slogan" : "차돌박이 100g 세일",
+		"tm_re_num" : 1,
+		"tm_openformatch" : 1,
+		"tm_teamgender" : 1,
+		"tm_me_id" : "asd123123",
+		"tm_teamstate" : "활동중",
+		"tm_team_img" : "/디폴트이미지/흑우즈.png",
+		"tm_team_introduce" : "이히"
+	},
+	{
+		"tm_num" : 3,
+		"tm_name" : "길냥이다",
+		"tm_startday" : "2023-04-10",
+		"tm_slogan" : "길냥이다",
+		"tm_re_num" : 1,
+		"tm_openformatch" : 1,
+		"tm_teamgender" : 1,
+		"tm_me_id" : "rkskek123",
+		"tm_teamstate" : "활동중",
+		"tm_team_img" : "/디폴트이미지/고양이2.png",
+		"tm_team_introduce" : "라아"
+	},
+	{
+		"tm_num" : 4,
+		"tm_name" : "댕댕이야구단",
+		"tm_startday" : "2023-04-20",
+		"tm_slogan" : "개같이 플레이 합니다",
+		"tm_re_num" : 2,
+		"tm_openformatch" : 1,
+		"tm_teamgender" : 1,
+		"tm_me_id" : "rkskek234",
+		"tm_teamstate" : "활동중",
+		"tm_team_img" : "/디폴트이미지/강아지.png",
+		"tm_team_introduce" : "나노"
+	},
+	{
+		"tm_num" : 5,
+		"tm_name" : "항정살가브리살",
+		"tm_startday" : "2023-04-03",
+		"tm_slogan" : "돼지입니다",
+		"tm_re_num" : 3,
+		"tm_openformatch" : 0,
+		"tm_teamgender" : 2,
+		"tm_me_id" : "ekfkak123",
+		"tm_teamstate" : "활동중",
+		"tm_team_img" : "/디폴트이미지/돼지.png",
+		"tm_team_introduce" : "추차"
+	},
+	{
+		"tm_num" : 6,
+		"tm_name" : "양쯔강돌고래",
+		"tm_startday" : "2023-04-06",
+		"tm_slogan" : "양쯔강 돌고래 떼죽음",
+		"tm_re_num" : 1,
+		"tm_openformatch" : 0,
+		"tm_teamgender" : 3,
+		"tm_me_id" : "ekfkak234",
+		"tm_teamstate" : "활동중",
+		"tm_team_img" : "/디폴트이미지/돌고래.png",
+		"tm_team_introduce" : "댜ㅏ"
+	}
+]
